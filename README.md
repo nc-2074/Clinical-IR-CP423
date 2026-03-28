@@ -123,8 +123,8 @@ You need seven credentials before running the system. All services have a free t
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/nc-2074/Clinical-IR-CP423
-cd Clinical-IR-CP423
+git clone https://github.com/nc-2074/Clinical-IR-CP423-Project
+cd Clinical-IR-CP423-Project
 ```
 
 ### 2. Create and activate a virtual environment
