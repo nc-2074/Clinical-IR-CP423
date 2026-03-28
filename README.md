@@ -123,8 +123,8 @@ You need seven credentials before running the system. All services have a free t
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/nc-2074/CP423-Project-clinical-ir
-cd CP423-Project-clinical-ir
+git clone https://github.com/nc-2074/Clinical-IR-CP423
+cd Clinical-IR-CP423
 ```
 
 ### 2. Create and activate a virtual environment
@@ -422,7 +422,7 @@ python app.py
 In a second terminal:
 
 ```bash
-cd /Users/name/CP423-Project-clinical-ir
+cd /path/to/Clinical-IR-CP423
 source venv/bin/activate
 python server.py
 ```
@@ -430,7 +430,7 @@ python server.py
 #### Terminal 3 — LiveKit transcriber agent
 
 ```bash
-cd /Users/name/CP423-Project-clinical-ir
+cd /path/to/Clinical-IR-CP423
 source venv/bin/activate
 python speaker_separation/live/transcriber.py start
 ```
